@@ -73,10 +73,16 @@
     </div>
 
     <script>
-        // A little interactive touch for the "Get Started" button
+        // Interactive "Get Started" button with a secret shortcut
         document.getElementById('cta-button').addEventListener('click', (e) => {
             e.preventDefault();
-            alert('Ebee is still in early development, but thanks for your interest! Check out the project on GitHub to follow our progress.');
+
+            // On Ctrl+Shift+Click, redirect to the testing area
+            if (e.ctrlKey && e.shiftKey) {
+                window.location.href = '/app';
+            } else {
+                alert('Ebee is still in early development, but thanks for your interest! Check out the project on GitHub to follow our progress.');
+            }
         });
     </script>
 </body>
