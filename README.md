@@ -1,13 +1,10 @@
 <div align="center">
-  <!-- You can add a logo here if you have one -->
   <!-- <img src="path/to/logo.png" alt="Ebee Logo" width="100"/> -->
   <h1>Ebee</h1>
   <p>
     <strong>An open-source, self-hostable chat platform for building online communities.</strong>
   </p>
-  <!-- Optional: Add badges for build status, license, etc. -->
   <p>
-    <!-- Replace `your-username` with your GitHub username -->
     <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/LaugeSvan/Ebee"></a>
   </p>
 </div>
