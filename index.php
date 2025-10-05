@@ -56,7 +56,7 @@
                     Build Your Community. <span class="text-indigo-400">Own Your Platform.</span>
                 </h1>
                 <p class="mt-6 text-lg md:text-xl text-gray-300 max-w-2xl mx-auto">
-                    Ebee is an open-source, self-hostable chat platform for building online communities that value privacy and control.
+                    Ebee is an open-source chat platform for building online communities that value privacy and control.
                 </p>
                 <div class="mt-10 flex justify-center gap-4">
                     <a href="#" id="cta-button" class="bg-indigo-600 text-white font-bold py-3 px-8 rounded-lg text-lg hover:bg-indigo-500 focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-opacity-50 transform hover:-translate-y-1 transition-all duration-300">
