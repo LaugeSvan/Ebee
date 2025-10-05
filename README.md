@@ -16,6 +16,9 @@ Ebee aims to be a modern, feature-rich alternative for communities that value pr
 Here are some of the core features planned for the initial versions of Ebee:
 
 *   **🔐 User Authentication:** Secure user registration and login system.
+*   **🗂️ Message History:** Persistent storage of messages for later retrieval.
+*   **📁 File Sharing:** Ability to share images, documents, and other files within chats.
+*   **👤 Direct Messaging:** Private one-on-one conversations between users..
 *   **💬 Real-time Messaging:** Live text-based communication within channels.
 *   **🏢 Server & Channel Structure:** Organize conversations into separate servers and channels.
 *   **👥 User Profiles & Roles:** Basic user profiles and a simple permission system.
