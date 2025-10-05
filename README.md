@@ -24,9 +24,9 @@ Here are some of the core features planned for the initial versions of Ebee:
 
 The planned technology stack for Ebee is:
 
-*   **Frontend:** [e.g., React, TypeScript, Tailwind CSS]
+*   **Frontend:** HTML in PHP, Tailwind CSS
 *   **Backend:** PHP
-*   **Database:** A relational database (e.g., MySQL, MariaDB)
+*   **Database:** MySQL/MariaDB
 *   **Real-time Communication:** To be determined (exploring WebSockets or Long-Polling)
 
 ## 🚀 Getting Started
